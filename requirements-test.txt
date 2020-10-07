@@ -1,2 +1,2 @@
--r requirements.txt
+--requirement requirements.txt
 pre-commit
